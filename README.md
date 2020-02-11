@@ -44,12 +44,16 @@ I have performed the following activities
 # Data Cleaning
 In this process, I
 ● Came up with effective measures to handle large volume data.
+
 ● Impute the missing values.
+
 ● Encode the categorical variables.
 
 # Data Processing
 ● Preparing the data by tagging geolocation with positions
+
 ● Deriving Relevant features from multiple tables.
+
 ● Aggregating information for each state for countrywide analysis eg. number of
 Maruti Cars in each state etc.
 

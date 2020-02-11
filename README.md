@@ -42,7 +42,8 @@ I have performed the following activities
 4. Building Predictive Models
 
 # Data Cleaning
-In this process, I
+In this process,
+I
 ● Came up with effective measures to handle large volume data.
 
 ● Impute the missing values.
